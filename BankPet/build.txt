@@ -1,0 +1,3 @@
+displayName = Piggy Pet
+author = Basiq
+version = 0.2
